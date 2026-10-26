@@ -130,7 +130,7 @@ pydantic==2.5.2
 pydantic-settings==2.1.0
 pydantic_core==2.14.5
 Pygments==2.17.2
-pypdf==3.17.1
+pypdf==6.21.2
 PyPika==0.48.9
 python-dateutil==2.8.2
 python-dotenv==1.0.0
